@@ -1,6 +1,6 @@
 # feature 1
 
-some content00
+some content0
 
 some content2
 
